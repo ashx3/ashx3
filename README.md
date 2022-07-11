@@ -6,4 +6,6 @@
 <a href="mailto:iashik0506@gmail.com">
 <img align="left" alt="Gmail Logo" width="50px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a>
 
+<br>
+
 Myself, I'm an Data Science enthusiant and I believe Data Science can provide solution to any problem even in an minuscule way in our day-to-day tasks. 
