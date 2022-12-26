@@ -11,4 +11,4 @@
 <br
 
 
-Myself, I'm an Data Science enthusiant and I believe Data Science can provide solution to any problem even in an minuscule way in our day-to-day tasks. 
+Myself, I'm an Data Science enthusiant and I believe Data Science has the capabilities to provide solution to any problem in making key business decisions or in our day-to-day tasks even in an minuscule way. In today's world, data in generated every millisecond and so, it must serve it's own purpose.
